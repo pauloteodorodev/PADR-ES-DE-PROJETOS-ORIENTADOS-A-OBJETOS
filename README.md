@@ -54,6 +54,4 @@ Cadastrar novo usuário:
   https://localhost:4200/clientes/cadastrar
 ```
 
-Esta url e destinada a parte administrativa do projeto.
-
 
