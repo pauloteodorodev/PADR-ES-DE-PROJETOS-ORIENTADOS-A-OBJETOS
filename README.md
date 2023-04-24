@@ -43,7 +43,7 @@ Para configurar o banco de dados navegue até a raiz do projeto, e entre da past
 
 # Observações 
 
-projeto ainda em desenvolvimento, ao rodar projeto angular e acessar a listagem e cadastro de usuários acessar :
+projeto ainda em desenvolvimento, ao rodar projeto angular para acessar a listagem e cadastro de usuários acessar :
 ```
   https://localhost:4200/admin
 ```
