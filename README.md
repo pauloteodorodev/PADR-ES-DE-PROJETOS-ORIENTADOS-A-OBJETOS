@@ -41,4 +41,12 @@ Certifique-se de que o MySQL Server esteja em execução.
 
 Para configurar o banco de dados navegue até a raiz do projeto, e entre da pasta BD, la tera o script para criação do banco de dados, assim como outros scripts necessários.
 
+# Observações 
+
+projeto ainda em desenvolvimento, ao rodar projeto angular e acessar a listagem e cadastro de usuários acessar :
+```
+  https://localhost:4200/admin
+```
+Esta url e destinada a parte administrativa do projeto.
+
 
