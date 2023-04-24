@@ -43,10 +43,17 @@ Para configurar o banco de dados navegue até a raiz do projeto, e entre da past
 
 # Observações 
 
-projeto ainda em desenvolvimento, ao rodar projeto angular para acessar a listagem e cadastro de usuários acessar :
+projeto ainda em desenvolvimento, ao rodar projeto angular para acessar a listagem e cadastro de usuários acessar.
+
+Listagem de usuários:
 ```
   https://localhost:4200/admin
 ```
+Cadastrar novo usuário:
+```
+  https://localhost:4200/clientes/cadastrar
+```
+
 Esta url e destinada a parte administrativa do projeto.
 
 
